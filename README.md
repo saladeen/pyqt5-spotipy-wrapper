@@ -9,4 +9,4 @@ Once you get the API credentials, edit the spotify_credentials.txt file as it in
 
 Make sure to start playing a song from Spotify before launching the app, it can't start without some sort of playback going on.
 
-Run the qt5oop.py file & enjoy!
+Launch by running the qt5oop.py file, make sure you're running from the pyqt5-spotify-wrapper folder because the icons are specified by relative path.
