@@ -1,0 +1,9 @@
+ATTRIBUTIONS:
+Original source for heart icon (modified): https://openmoji.org/library/#search=heart&emoji=1F90D
+Original source for shuffle icon (modified): https://openmoji.org/library/#search=shuffle&emoji=1F500
+
+These two emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0
+https://openmoji.org/
+https://creativecommons.org/licenses/by-sa/4.0/#
+
+All other icons were created by myself using Lunacy
