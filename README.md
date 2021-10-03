@@ -1,7 +1,7 @@
 # pyqt5-spotipy-wrapper
 Small client wrapping most functions of the Spotify API with a UI made in PyQt5.
 
-Requirements: Python (3+?), Spotipy (2.19?), PyQt5, a Spotify Developer account (requires Spotify Premium)
+Requirements: Python (3+?), Spotipy (2.19?), PyQt5, a Spotify Developer account.
 
 Create a Spotify Developer account here: https://developer.spotify.com/ 
 
