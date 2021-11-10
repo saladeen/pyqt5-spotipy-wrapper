@@ -10,7 +10,7 @@ class Spotify:
         scope = 'user-read-playback-state, user-modify-playback-state, playlist-read-private, user-follow-read, user-library-read, user-library-modify'
 
         # Credentials file format: client secret, client id, redirect uri, username, all on separate lines w/ no extra quotes/characters
-        credentials_file = open("C:/Users/Griffin/Desktop/py/cleaned_up_sp_widget/spotify_credentials.txt", "r")
+        credentials_file = open("spotify_credentials.txt", "r")
         credentials = credentials_file.readlines()
         for i in range(3):
             credentials[i] = credentials[i].strip()
